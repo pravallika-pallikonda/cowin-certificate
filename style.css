@@ -1,0 +1,149 @@
+.logo{
+    text-align: center;
+    /* height: 300px;
+    width: 300px; */
+}
+.p1{
+    text-align: center;
+    font-weight: bold;
+    font-family: "poppins", sans-serif;
+    font-size: 18px;
+
+}
+.p2{
+    text-align: center;
+    font-weight: bold;
+    font-family: "poppins", sans-serif;
+    font-size: 18px;
+    line-height:0.2;
+}
+.p3{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(11, 11, 131);
+    font-weight: 570;
+    font-family: "poppins", sans-serif;
+    line-height:0.2;
+}
+.p4{
+    text-align: center;
+    font-size: 22px;
+    font-family: "poppins", sans-serif;
+    color: rgb(11, 11, 131);
+    font-weight: 550;
+    line-height:0.2;
+}
+.p5{
+    text-align: center;
+    font-size: 18px;
+    font-family: "poppins", sans-serif;
+    font-weight: 600;
+   
+}
+.h1{
+    padding-left: 180px;
+    font-size: 18px;
+    font-family: "poppins", sans-serif;
+    color: rgb(26, 28, 122);
+    text-decoration: underline ;
+    font-weight: 550;
+
+}
+.data{
+    padding-left: 180px;
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l1{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l2{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l3{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l4{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l6{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l7{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.h2{
+    padding-left: 180px;
+    font-size: 18px;
+    font-family: "poppins", sans-serif;
+    color: rgb(21, 35, 101);
+    text-decoration: underline ;
+    font-weight: 550;
+
+}
+.l8{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l9{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.h3{
+    padding-left: 180px;
+    font-size: 18px;
+    font-family: "poppins", sans-serif;
+    padding-top: 15px;
+   
+}
+
+.l10{
+    font-size: 15px;
+    font-family: "poppins", sans-serif;
+}
+.l11{
+    font-size: 15px;
+    font-family: "poppins",sans-serif;
+    color: rgba(56, 49, 49, 0.895);
+}
+.l12{
+    font-size: 15px;
+    font-family: "poppins",sans-serif;
+    color: rgba(56, 49, 49, 0.895);
+}
+.l13{
+    font-size: 15px;
+    font-family: "poppins",sans-serif;
+    color: rgba(56, 49, 49, 0.895);
+}
+.container{
+    padding-left: 150px;
+   
+    
+}
+
+.end{
+    text-align: right;
+    padding-right: 240px;
+    font-family: "poppins",sans-serif;
+    font-size: 11px;
+    color: rgba(56, 49, 49, 0.895);
+    
+}
+.last{
+    text-align: right;
+    padding-right: 240px;
+    font-family: "poppins",sans-serif;
+    font-size: 11px;
+    color: rgba(56, 49, 49, 0.895);
+
+}
+.over{
+    text-align: right;
+}
